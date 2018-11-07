@@ -1,0 +1,65 @@
+.bs-docs-footer
+{
+background-color: #303232;
+height: 400px;
+}
+
+.btn-circle {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.428571429;
+  border-radius: 15px;
+}
+.ImagenesSlider {
+   background: transparent;
+}
+.carousel-control {
+  background: transparent;
+}
+
+h4
+{
+color: #059B55;
+}
+
+.Padre
+{
+  height: 500px;
+  /*IMPORTANTE*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h3
+{
+color: #05829B  ;
+}
+.Soluciones
+{
+	color: #445F76;
+}
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+
+.ir-arriba
+{
+display: none;
+padding: 20px;
+background: #1A77BC;
+cursor: pointer;
+position: fixed;
+bottom:20px;
+right: 20px;
+border-radius: 80px;
+}
+label, input[type="submit"]
+{
+margin-top: 6px;
+
+}
